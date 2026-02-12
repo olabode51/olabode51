@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Olabode Odewole
 - 👀 I’m interested in datascience and Machine learning
-- 🌱 I’m currently learning Python data analysis and Machine learning and Power Bi for data visualization and story telling
+- 🌱 I’m currently learning Python for data analysis, Machine learning, Looker and Power Bi for data visualization and story telling
 - 💞️ I’m looking to collaborate on data analysis and  data modelling deployments
 - 📫 How to reach me: you can reach me on olabode7179@gmail.com
 
